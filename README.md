@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/64/95/57/649557a7433707e8d91d5769b264b5f1.gif" width="50%">
-</p>
 
 <table>
   <tr>
