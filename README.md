@@ -54,10 +54,10 @@ I work from **back-end to interface**, always prioritizing **clean architecture*
 ## ![](https://img.shields.io/badge/◈-A100C3?style=flat-square&labelColor=0D1117) Languages & Tools I'm Studying
 
 <div align="center">
+   <img src="https://skillicons.dev/icons?i=javascript" /><br><br>
   <img src="https://skillicons.dev/icons?i=python,nodejs" /><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,github,git" /><br><br>
-  <img src="https://skillicons.dev/icons?i=javascript" /><br><br>
   <img src="https://skillicons.dev/icons?i=vim,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,git" /><br><br>
 </div>
 
 ---
