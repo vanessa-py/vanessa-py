@@ -66,7 +66,7 @@ I work from **back-end to interface**, always prioritizing **clean architecture*
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=vanessa-py&theme=dark&background=0D0D0D&ring=A100C3&fire=D388E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A100C3&sideLabels=A100C3&dates=FFFFFF" /><br><br>
+<img src="https://streak-stats.demolab.com?user=vanessa-py&theme=dark&background=0D0D0D&ring=A100C3&fire=D388E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A100C3&sideLabels=A100C3&dates=FFFFFF&v=3" />
 
 
   <br><br>
